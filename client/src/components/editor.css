@@ -1,7 +1,28 @@
-.container .ql-editor{
+/* .container .ql-editor{
     width: 60%;
     padding: 4%;
     margin:1rem;
     min-height: 10in;
     box-shadow: 0 0 5px rgba(0,0,0.5);
+} */
+.container{
+    background-color: #d9d9dd;
 }
+.ql-editor {
+    background-color: #ffffff;
+    width: 8.3in;
+    padding: 4%;
+    margin: 1rem auto; /* Set margin to auto to center horizontally */
+    min-height: 11.7in;
+    box-shadow: 0 0 5px rgba(0, 0, 0.5);
+}
+.ql-toolbar {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0.5);
+}.ql-formats{
+    cursor: grab;
+}
+
