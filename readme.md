@@ -2,7 +2,7 @@
 
 ## Overview
 
-TextSync is a collaborative text editor application inspired by Google Docs. It utilizes React for the frontend, Quill as the text editor, Socket.io for real-time collaboration, and MongoDB for data storage.
+TextSync is a collaborative text editor application inspired by Google Docs. It utilizes React for the frontend, Quill as the text editor, Socket.io for real-time collaboration and MongoDB for data storage.
 
 ## Frontend Setup
 
